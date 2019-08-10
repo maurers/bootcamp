@@ -1,3 +1,1 @@
-Este es un nuevo archivo para hacer un commit.
-
-Se modifica para poder seguir haciendo pruebas y avanzar.
+"Este es un nuevo archivo para hacer un commit" 
